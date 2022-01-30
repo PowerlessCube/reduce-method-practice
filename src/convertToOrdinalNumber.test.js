@@ -1,4 +1,4 @@
-import { convertToOrdinalNumber } from './index.js';
+import { convertToOrdinalNumber } from './convertToOrdinalNumber';
 
 describe('ordinal Number', () => {
   test('1 should be 1st', () => {

@@ -1,13 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1643459493873" clover="3.2.0">
-  <project timestamp="1643459493873" name="All files">
-    <metrics statements="4" coveredstatements="4" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1" elements="11" coveredelements="11" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
-    <file name="index.js" path="C:\Users\aliwa\OneDrive\Documents\Coding Practice\reduce-test\src\index.js">
+<coverage generated="1643540537325" clover="3.2.0">
+  <project timestamp="1643540537325" name="All files">
+    <metrics statements="35" coveredstatements="35" conditionals="18" coveredconditionals="18" methods="14" coveredmethods="14" elements="67" coveredelements="67" complexity="0" loc="35" ncloc="35" packages="1" files="2" classes="2"/>
+    <file name="convertToOrdinalNumber.js" path="C:\Users\aliwa\OneDrive\Documents\Coding Practice\reduce-test\src\convertToOrdinalNumber.js">
       <metrics statements="4" coveredstatements="4" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
       <line num="7" count="1" type="stmt"/>
       <line num="8" count="9" type="cond" truecount="4" falsecount="0"/>
       <line num="9" count="5" type="cond" truecount="2" falsecount="0"/>
+    </file>
+    <file name="reducePractice.js" path="C:\Users\aliwa\OneDrive\Documents\Coding Practice\reduce-test\src\reducePractice.js">
+      <metrics statements="31" coveredstatements="31" conditionals="12" coveredconditionals="12" methods="13" coveredmethods="13"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="17" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="4" type="stmt"/>
+      <line num="19" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="30" count="4" type="stmt"/>
+      <line num="31" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="32" count="4" type="stmt"/>
+      <line num="33" count="4" type="stmt"/>
+      <line num="41" count="1" type="stmt"/>
+      <line num="83" count="1" type="stmt"/>
+      <line num="84" count="6" type="stmt"/>
+      <line num="85" count="22" type="cond" truecount="2" falsecount="0"/>
+      <line num="86" count="22" type="stmt"/>
+      <line num="88" count="6" type="stmt"/>
+      <line num="91" count="5" type="stmt"/>
+      <line num="93" count="1" type="stmt"/>
+      <line num="94" count="1" type="stmt"/>
+      <line num="95" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="98" count="1" type="stmt"/>
+      <line num="99" count="1" type="stmt"/>
+      <line num="100" count="6" type="stmt"/>
+      <line num="103" count="4" type="stmt"/>
+      <line num="105" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="106" count="1" type="stmt"/>
+      <line num="109" count="4" type="stmt"/>
+      <line num="115" count="1" type="stmt"/>
+      <line num="116" count="1" type="stmt"/>
+      <line num="118" count="4" type="stmt"/>
     </file>
   </project>
 </coverage>
